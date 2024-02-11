@@ -1,0 +1,10 @@
+.list-item {
+  list-style: none;
+  background-color: white;
+}
+.list-item:hover {
+  cursor: grab;
+}
+.list-item:active {
+  cursor: grabbing;
+}
